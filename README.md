@@ -17,4 +17,4 @@ I work with data to find useful insights, using SQL, Power BI and Python. I'm lo
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/rohit-701641417)
+[www.linkedin.com/in/rohit-rajput-701641417)
