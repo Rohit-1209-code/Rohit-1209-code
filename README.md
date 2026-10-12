@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rohit Rajput 👋
 
-<!--
-**Rohit-1209-code/Rohit-1209-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student at Sanskaram University, aspiring Data Analyst.
 
-Here are some ideas to get you started:
+I work with data to find useful insights, using SQL, Power BI and Python. I'm looking for a data analyst internship where I can learn from real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
+![Python](https://img.shields.io/badge/Python-Learning-green)
+
+## Projects
+
+- [Sales & Customer Analysis Dashboard](https://github.com/Rohit-1209-code/Sales-Customer-Analysis-Dashboard): SQL and Power BI analysis of sales trends, top products and customer segmentation
+- [Customer Transaction Analysis](https://github.com/Rohit-1209-code/Customer-Transaction-Analysis): SQL analysis of high-value customers, recurring buyers and business reporting
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/rohit-701641417)
